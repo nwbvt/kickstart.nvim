@@ -233,8 +233,13 @@ require('lazy').setup({
   'tpope/vim-sexp-mappings-for-regular-people',
   'tpope/vim-repeat',
   'tpope/vim-surround',
+  'shuber/vim-promiscuous',
+  'luochen1990/rainbow',
+  'tpope/vim-dispatch',
+  'clojure-vim/vim-jack-in',
+  'radenling/vim-dispatch-neovim',
+
   -- NOTE: Plugins can be added with a link (or for a github repo: 'owner/repo' link).
-  'tpope/vim-sleuth', -- Detect tabstop and shiftwidth automatically
 
   -- NOTE: Plugins can also be added by using a table,
   -- with the first argument being the link and the following
